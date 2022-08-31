@@ -1,0 +1,2 @@
+rule:
+	g++ -o project2 src/Source.cpp src/Header.h src/Pixel.h
